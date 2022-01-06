@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kongtapp Veerawattananun</h1>
-<h3 align="center">I’m currently studying at Kasetsart University</h3>
-
-- 🌱 I’m currently learning **a lot of things about coding.**
+<h3 align="center">🌱 I’m currently studying at Kasetsart University</h3>
 
 - 📫 How to reach me **kongtapp.v@ku.th**
 
