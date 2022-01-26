@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **kongtapp.v@ku.th**
 
--🎮 Hobby **Playing Video games, Reading Manga, Watch Anime**
+- 🎮 Hobby **Playing Video games, Reading Manga, Watch Anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
