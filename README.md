@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kongtapp Veerawattananun</h1>
-<h3 align="center">🌱 I’m currently working as Full-Stack Developer</h3>
+<h3 align="center">🌱 I’m currently working as Software Developer</h3>
 
 - 📫 How to reach me **kongtappv@gmail.com**
 
